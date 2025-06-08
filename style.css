@@ -18,15 +18,15 @@
 .badge {
   display: inline-block;
   padding: 5px;
-  background-color: gray;
-  color: white;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   border-radius: 5px;
 }
 
 h1,
 h2,
 h5 {
-  color: orange;
+  color: rgb(3, 32, 127);
   font-weight: 700;
 }
 
@@ -35,9 +35,9 @@ body {
 }
 
 footer a {
-  color: blue;
+  color: rgb(75, 5, 205);
 }
 
 footer a:hover {
-  color: pink;
+  color: rgb(217, 47, 75);
 }
